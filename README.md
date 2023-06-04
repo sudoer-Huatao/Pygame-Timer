@@ -1,4 +1,4 @@
-# Timer-by-Pygame-Zero
+# Timer-made-by-Pygame-Zero
 
 A timer made by Pygame Zero
 
